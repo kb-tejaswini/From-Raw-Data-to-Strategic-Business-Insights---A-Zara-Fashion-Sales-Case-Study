@@ -1,0 +1,2 @@
+# From-Raw-Data-to-Strategic-Business-Insights---A-Zara-Fashion-Sales-Case-Study
+This study analyzes Zara’s sales performance at the product level by performing data analysis using advanced AI tools &amp; techniques. The main objective of this study is to identify and evaluate all those key factors and drivers using advanced AI tools that impact the pricing, promotions, and seasonal factors of Zara fashion. 
